@@ -11,5 +11,5 @@
 弾を撃つ:Fキー
 ジャンプ:spaceキー
 
-nitrx.github.io/sakuya2d/
+<nitrx.github.io/sakuya2d/>
 ---
