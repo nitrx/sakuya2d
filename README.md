@@ -10,4 +10,6 @@
 移動:A/Dキー or ←/→キー
 弾を撃つ:Fキー
 ジャンプ:spaceキー
+
+nitrx.github.io/sakuya2d/
 ---
