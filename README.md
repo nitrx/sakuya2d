@@ -1,7 +1,7 @@
 # sakuya2d
 
-![タイトル画面](docs/image/title.png)
-![ゲーム画面](docs/image/game.png)
+![タイトル画面](image/title.png)
+![ゲーム画面](image/game.png)
 
 # ゲームの概要
 制限時間内のできるだけ敵を沢山倒してスコアを稼いでください。
@@ -11,6 +11,6 @@
 <br>弾を撃つ:Fキー
 <br>ジャンプ:spaceキー
 
-<http://nitrx.github.io/sakuya2d/docs/sakuya2dgame/>
+<http://nitrx.github.io/sakuya2d/sakuya2dgame/>
 
 ---
