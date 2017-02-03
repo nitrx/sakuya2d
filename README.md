@@ -8,8 +8,8 @@
 
 # 遊び方
 移動:A/Dキー or ←/→キー
-弾を撃つ:Fキー
-ジャンプ:spaceキー
+<br>弾を撃つ:Fキー
+<br>ジャンプ:spaceキー
 
 <http://nitrx.github.io/sakuya2d/docs/sakuya2dgame/>
 
