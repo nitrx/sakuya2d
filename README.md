@@ -1,7 +1,7 @@
 # sakuya2d
 
-![タイトル画面](image/title.png)
-![ゲーム画面](image/game.png)
+![タイトル画面](docs/image/title.png)
+![ゲーム画面](docs/image/game.png)
 
 # ゲームの概要
 制限時間内のできるだけ敵を沢山倒してスコアを稼いでください。
